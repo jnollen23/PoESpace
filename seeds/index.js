@@ -1,0 +1,1 @@
+const thoughtSeeds = require('./thoughts');

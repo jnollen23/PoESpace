@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/jnollen23/PoESpace/issues"
   },
-  "homepage": "https://github.com/jnollen23/PoESpace#readme"
+  "homepage": "https://github.com/jnollen23/PoESpace#readme",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "moment": "^2.29.4",
+    "mongoose": "^7.0.3"
+  }
 }
