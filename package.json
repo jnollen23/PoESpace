@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/jnollen23/PoESpace#readme",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "express.js": "^1.0.0",
     "moment": "^2.29.4",
     "mongoose": "^7.0.3"
